@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JSC NPK "KATREN" as a Junior C# Backend Developer.<br><br>🌱 I am a college student and my future plans include going to higher education.<br><br>💬 I'm currently deep-learning C# and doing some hobbyist development in Kotlin using Jetpack Compose.<br><br>⚡ I don’t know funny facts, but I know one joke:<br>- What happened to the drug courier who had diarrhea?<br>- Pooped a fortune
+🔭 I’m currently working as a C# Backend Developer.<br><br>🌱 I am a college student and my future plans include going to higher education.<br><br>💬 I'm currently deep-learning C# and doing some hobbyist development in Kotlin using Jetpack Compose.<br><br>⚡ I don’t know funny facts, but I know one joke:<br>- What happened to the drug courier who had diarrhea?<br>- Pooped a fortune
 
 
 # 💻 Tech Stack:
